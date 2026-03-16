@@ -106,5 +106,24 @@ Order → OrderItem (1:M)
 ## API Testing
 All APIs were tested using Postman.
 
+https://rupalbiswal24-275152.postman.co/workspace/be5c72f7-6903-46fc-8d32-3aa60bac30e8/collection/52611589-55e2beed-58d1-422c-b88a-0839b9cc1c50?action=share&source=copy-link&creator=52611589
+
+#screenshot
+All the screenshots of APIs and DATAbase are in the folder after testing and getting the results of the project in the screenshot folder.
+The ER diagram and the Architecture Diagram are also in the Diagrams folder.
+EcommerceBackendProject/
+README.md
+ecommerce-postman-collection.json
+schema.sql
+screenshots/
+   login-api.png
+   product-api.png
+   cart-api.png
+   order-api.png
+   database.png
+diagrams/
+   ER-diagram.png
+   architecture-diagram.png
+
 ## GitHub Repository
 https://github.com/RupalTheGreat/ecommerce-backend
